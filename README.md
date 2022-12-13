@@ -17,7 +17,7 @@ conda create -n yolo3d python=3.8 numpy
 ```
 Install PyTorch and torchvision version 1.8 above. If your GPU doesn't support it, please follow [Nelson Liu blogs](https://github.com/nelson-liu/pytorch-manylinux-binaries). 
 ```
-pip install torch==1.8.1 torcvision==0.9.1
+pip install torch==1.8.1 torchvision==0.9.1
 ```
 Last, install requirements
 ```
